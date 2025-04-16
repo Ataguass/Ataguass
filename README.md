@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ataguass
+- 👋 Hi, I’m @saugata Nath
 - 👀 I’m interested in ... trying new things.
 - 🌱 I’m currently learning ... Mern Stack
 - 📫 How to reach me ... polnath471@gmail.com
