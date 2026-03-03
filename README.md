@@ -1,3 +1,10 @@
+
+## Awesome Banners [🔝](#--gifs-for-readme--)
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<br><br>
+
 # 💫 About Me:
 Hi, I’m Saugata Nath, a passionate web developer and designer who enjoys building modern, user-focused digital experiences. I focus on creating clean interfaces, scalable systems, and meaningful products that solve real-world problems.<br><br>I believe in learning by building — experimenting, improving, and growing through hands-on projects. I’m constantly exploring better ways to design, develop, and deliver impactful solutions.<br><br>Think. Build. Repeat. 🚀
 
