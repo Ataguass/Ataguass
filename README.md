@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
 <br><br>
-# 💫 About Me:
+ About Me:
+
 Hi, I’m Saugata Nath, a passionate web developer and designer who enjoys building modern, user-focused digital experiences. I focus on creating clean interfaces, scalable systems, and meaningful products that solve real-world problems.<br><br>I believe in learning by building — experimenting, improving, and growing through hands-on projects. I’m constantly exploring better ways to design, develop, and deliver impactful solutions.<br><br>Think. Build. Repeat. 🚀
 
 
@@ -18,7 +19,7 @@ Hi, I’m Saugata Nath, a passionate web developer and designer who enjoys build
 [![](https://visitcount.itsvg.in/api?id=Ataguass&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/polnath471y) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/saugataaa) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
